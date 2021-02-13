@@ -10,9 +10,9 @@ module.exports = {
 		// Formulae
 		'https://doesitarm.com/kind/homebrew/',
 		'https://doesitarm.com/formula/neovim/',
-		'https://doesitarm.com/formula/postgresql',
+		'https://doesitarm.com/formula/postgresql/',
 		'https://doesitarm.com/formula/aom/',
-		
+
 
 		// Apps
 		'https://doesitarm.com/app/spotify/',
@@ -41,6 +41,6 @@ module.exports = {
 		'https://doesitarm.com/categories/',
 		'https://doesitarm.com/kind/science-and-research-software/',
 		'https://doesitarm.com/kind/developer-tools/',
-		'https://doesitarm.com/kind/vpns-security-and-privacy',
+		'https://doesitarm.com/kind/vpns-security-and-privacy/',
 	]
 };
